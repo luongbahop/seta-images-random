@@ -24,8 +24,7 @@ artifacts:
   files:
     - README.md
     - package.json
-    - app.js
     - appspec.yml
-    - scripts/*
+    - src/*
     - node_modules/**/*
     - public/**/*
